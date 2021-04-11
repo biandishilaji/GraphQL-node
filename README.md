@@ -7,11 +7,11 @@
   <h5>How run?<h5>
     
 ```bash
-# Go to folder
-$ cd GraphQL-node
+# Go to terminal
+$ cd project folder
 
 # Install Dependencies
-$ npm instal or yarn install
+$ npm install or yarn install
 
 # Run Aplication
 $ node index.js
