@@ -26,7 +26,8 @@ const providers = {
 
 const resolvers = {
   user({ id }) {
-    return providers.users.find(item => item.id === Number(id));
+//     return providers.users.find(item => item.id === Number(id));
+    return providers.users;
   },
   users() {
     return providers.users;
