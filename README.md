@@ -16,6 +16,9 @@ $ npm install or yarn install
 # Run Aplication
 $ node index.js
 
+# Output
+`App is running on http://localhost:3000...`
+
 ```
 
 Finally, access GraphQL Router at `http://localhost:{port}/graphql` and execute Query as below example.
