@@ -16,14 +16,7 @@ $ npm instal or yarn install
 # Run Aplication
 $ node index.js
 
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-```
-
-<span style="color: blue">Finally, access GraphQL Router at http://localhost:{port}/graphql and execute Query as below example.</span>
+Finally, access GraphQL Router at http://localhost:{port}/graphql and execute Query as below example.
 ```
   
   <h1>Exemplos</h1>
