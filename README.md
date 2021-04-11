@@ -18,7 +18,7 @@ $ node index.js
 
 ```
 
-Finally, access GraphQL Router at http://localhost:{port}/graphql and execute Query as below example.
+Finally, access GraphQL Router at `http://localhost:{port}/graphql` and execute Query as below example.
 
   <h1>Exemplos</h1>
   
