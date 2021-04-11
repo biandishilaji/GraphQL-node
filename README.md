@@ -16,9 +16,10 @@ $ npm instal or yarn install
 # Run Aplication
 $ node index.js
 
-Finally, access GraphQL Router at http://localhost:{port}/graphql and execute Query as below example.
 ```
-  
+
+Finally, access GraphQL Router at http://localhost:{port}/graphql and execute Query as below example.
+
   <h1>Exemplos</h1>
   
   <h4>Criação do Usuário</h4>
